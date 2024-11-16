@@ -11,7 +11,7 @@
 2. 将本仓库克隆至本地
    
     ```bash
-    git clone git@github.com:yxKryptonite/FuckPupedu.git
+    git@github.com:qinyumoan45/FuckPupedu.git
     cd FuckPupedu
     ```
 
